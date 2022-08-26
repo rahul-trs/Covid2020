@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: ./
-    destination: /home/ubuntu/Sample_FE/build/
+    destination: /home/ubuntu/sample_FE/build/
     overwrite: yes
 
 hooks:
